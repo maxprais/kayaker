@@ -1,0 +1,45 @@
+{
+	"type": "Collection",
+	"properties": {
+		"start": {
+			"name": "start",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "start",
+			"order": 0
+		},
+		"length": {
+			"name": "length",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "length",
+			"order": 1
+		},
+		"distance": {
+			"name": "distance",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "distance",
+			"order": 2
+		},
+		"User": {
+			"name": "User",
+			"type": "string",
+			"typeLabel": "string",
+			"required": true,
+			"id": "User",
+			"order": 3
+		},
+		"GPSLocation": {
+			"name": "GPSLocation",
+			"type": "object",
+			"typeLabel": "object",
+			"required": false,
+			"id": "GPSLocation",
+			"order": 4
+		}
+	}
+}

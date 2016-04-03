@@ -1,0 +1,60 @@
+body{
+    font-family: Roboto, sans-serif;
+}
+
+#top-cont{
+    background-color: #E58525;
+}
+.enter-details{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.header-details{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    margin-bottom: 30px;
+}
+.top-wrapper{
+    text-align: center;
+}
+.error{
+    color: red;
+}
+.success{
+    color: green;
+}
+.server-message{
+    margin-left: 40px;
+}
+.user-cont{
+    margin-bottom: 60px;
+}
+.options{
+    margin: 5px;
+}
+.options:hover{
+    opacity: 0.7;
+}
+.clickable{
+    cursor: pointer;
+}
+.hide {
+    display: none;
+}
+.session{
+    display: block;
+}
+.delete{
+    color: red;
+    display: inline-block;
+}
+.reportHolder{
+    margin: 20px;
+}
+.arrow{
+    margin-left: 20px;
+}

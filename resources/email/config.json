@@ -1,0 +1,12 @@
+{
+	"type": "Email",
+	"host": "",
+	"port": "",
+	"ssl": true,
+	"username": "",
+	"password": "",
+	"defaultFromAddress": "info@motionize-inc.com",
+	"internalOnly": false,
+	"productionOnly": false,
+	"base64": false
+}
